@@ -1,8 +1,10 @@
-VanCoin
+Owner of all asset’s/profits are to be Dennis Louis Babcock Jr Satoshi nakomoto mn,
+VanCoin,
 
 
 A cryptocurrency created for learning and experimental purposes
-< based on Litecoin -> BarCoin -> VanCoin>
+< based on Litecoin ->Satoshinakomoto is Dennis Louis Babcock Jr mn
+BarCoin -> VanCoin>
 -SCRYPT
 -42 Vancoin per block
 
